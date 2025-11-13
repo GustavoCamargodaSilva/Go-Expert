@@ -27,6 +27,8 @@ func main() {
 
 	// minhaVar1 foi modificada para 50 dentro da função soma
 	println(minhaVar1) // Saída: 50
+
+	teste()
 }
 
 // SEM PONTEIRO (Imutável - Passa por valor)
